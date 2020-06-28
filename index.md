@@ -11,3 +11,5 @@ Bereits Anfang des Jahres hatte Hank Azaria, der langjährige Synchronsprecher d
 * Inkompetenz
 * Gedankenlosigkeit
 
+„Neinn!“ ist der zum Markenzeichen gewordene Ausruf von Homer Simpson, wenn ihm ein Missgeschick passiert oder etwas Negatives widerfährt.:
+> D’oh.
