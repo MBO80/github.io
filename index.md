@@ -15,3 +15,5 @@ Bereits Anfang des Jahres hatte Hank Azaria, der langjährige Synchronsprecher d
 > D’oh.
 
 Bild:
+![Homer](/Homer_Simpson.png)
+Format: ![Homer Simpson](url)
