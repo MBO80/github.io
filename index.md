@@ -16,4 +16,3 @@ Bereits Anfang des Jahres hatte Hank Azaria, der langjährige Synchronsprecher d
 
 
 ![Homer](/Homer_Simpson.png)
-![Homer Simpson](url)
