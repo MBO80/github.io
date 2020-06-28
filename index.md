@@ -14,6 +14,6 @@ Bereits Anfang des Jahres hatte Hank Azaria, der langjährige Synchronsprecher d
 „Neinn!“ ist der zum Markenzeichen gewordene Ausruf von Homer Simpson, wenn ihm ein Missgeschick passiert oder etwas Negatives widerfährt.:
 > D’oh.
 
-Bild:
+
 ![Homer](/Homer_Simpson.png)
-Format: ![Homer Simpson](url)
+![Homer Simpson](url)
